@@ -1,0 +1,4 @@
+using write mode
+using append mode
+New content
+Another line
