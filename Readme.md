@@ -34,14 +34,11 @@
       -  For Windows
       <pre><code>.\envname\Scripts\activate</code></pre>
 
-  4. **Install Dependencies**
 
-      <pre><code>pip install -r requirements.txt</code></pre>
-
-  5. **Run the Application**
+  4. **Run the Application**
 
       <pre><code>python3 app.py</code></pre>
 
-  6. **Deactivate the Virtual Environment**
+  5. **Deactivate the Virtual Environment**
 
       <pre><code>deactivate</code></pre>
